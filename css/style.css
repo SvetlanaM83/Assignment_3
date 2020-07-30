@@ -33,3 +33,31 @@ a{
     font-size: 18px;
     
 }
+table {
+    border-collapse: collapse;
+    width: 900px;
+    border-collapse: collapse;
+   
+  }
+
+  th {
+    padding: 18px;
+  }
+   
+  td {
+    padding: 12px;
+  }
+   
+  th,
+  td {
+    border: solid 1px #e6e6e6;
+  }
+   
+  tr {
+    background-color: #ccc9c9;
+  }
+   
+  #heading {
+    background-color: #caa7ad;
+ 
+  }
